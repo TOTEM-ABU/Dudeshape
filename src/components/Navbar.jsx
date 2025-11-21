@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
     return (
         <nav className='w-full bg-white'>
-            <div className='max-w-8xl mx-auto flex items-center justify-between py-6 px-4'>
+            <div className='max-w-7xl mx-auto flex items-center justify-between py-6 px-4'>
 
                 <p className='font-bold text-2xl border-b-2 border-black tracking-wider cursor-pointer'>
                     Dudeshape

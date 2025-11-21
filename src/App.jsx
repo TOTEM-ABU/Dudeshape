@@ -1,11 +1,11 @@
 import { Footer, Navbar } from './components'
-import { HomePage } from './pages'
+import { HomeSection } from './pages'
 
 const App = () => {
   return (
     <>
       <Navbar />
-      <HomePage />
+      <HomeSection />
       <Footer />
     </>
   )
