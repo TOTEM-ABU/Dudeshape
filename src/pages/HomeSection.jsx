@@ -3,8 +3,8 @@ import React from 'react'
 const HomeSection = () => {
     return (
         <div className='w-full bg-stone-50'>
-            <div className='max-w-7xl mx-auto flex flex-col lg:flex-row justify-between items-center min-h-[80vh] px-4'>
-                <div className='w-full lg:w-1/2 p-8 md:p-16'>
+            <div className='max-w-7xl mx-auto flex flex-col lg:flex-row justify-between items-center min-h-[80vh]'>
+                <div className='w-full lg:w-1/2'>
                     <h1 className='text-6xl font-bold leading-tight mb-6'>Get Your Best Cosmetic Products Here</h1>
                     <p className='text-lg text-gray-600 mb-10 max-w-lg'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy</p>
                     <div className='flex w-full max-w-md mb-8 border border-gray-300'>

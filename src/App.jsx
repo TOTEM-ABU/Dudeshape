@@ -1,11 +1,12 @@
 import { Footer, Navbar } from './components'
-import { HomeSection } from './pages'
+import { HomeSection, PartnersSection } from './pages'
 
 const App = () => {
   return (
     <>
       <Navbar />
       <HomeSection />
+      <PartnersSection />
       <Footer />
     </>
   )
