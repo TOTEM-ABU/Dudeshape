@@ -2,7 +2,7 @@ import React from 'react'
 
 const BlogSection = () => {
     return (
-        <div className='w-full mt-16 px-4 py-20 bg-white'>
+        <div className='w-full mt-16 px-4 py-20'>
             <div className='max-w-7xl mx-auto'>
                 <div className='flex flex-col lg:flex-row items-center justify-between gap-12'>
                     <div className='w-full lg:w-1/2'>
@@ -26,7 +26,7 @@ const BlogSection = () => {
                         <div className='aspect-w-1 aspect-h-1 lg:aspect-w-4 lg:aspect-h-5 overflow-hidden rounded-lg'>
                             <img
                                 src="/public/Rectangle 8.png"
-                                alt="Products image"
+                                alt="Product image"
                                 className='w-full h-full object-cover shadow-lg'
                             />
                         </div>

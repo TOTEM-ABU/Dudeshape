@@ -1,5 +1,5 @@
 import { Footer, Navbar } from './components'
-import { BlogSection, HomeSection, OurProductsSection, PartnersSection, StatisticsSection } from './pages'
+import { BlogSection, CommentsSection, HomeSection, OurProductsSection, PartnersSection, StatisticsSection } from './pages'
 
 const App = () => {
   return (
@@ -10,6 +10,7 @@ const App = () => {
       <OurProductsSection />
       <StatisticsSection />
       <BlogSection />
+      <CommentsSection />
       <Footer />
     </>
   )
