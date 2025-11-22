@@ -13,7 +13,7 @@ const InstagramIcon = (props) => (
 
 const Footer = () => {
     return (
-        <footer className='w-full bg-stone-50'>
+        <footer className='w-full bg-gray-50'>
             <div className='max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center py-16 px-4 border-b border-gray-200'>
 
                 <h1 className='text-2xl md:text-3xl font-bold mb-6 md:mb-0 text-stone-900'>

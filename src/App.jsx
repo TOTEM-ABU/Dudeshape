@@ -1,5 +1,5 @@
 import { Footer, Navbar } from './components'
-import { HomeSection, PartnersSection } from './pages'
+import { HomeSection, OurProductsSection, PartnersSection } from './pages'
 
 const App = () => {
   return (
@@ -7,6 +7,7 @@ const App = () => {
       <Navbar />
       <HomeSection />
       <PartnersSection />
+      <OurProductsSection />
       <Footer />
     </>
   )
